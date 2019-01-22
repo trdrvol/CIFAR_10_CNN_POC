@@ -1,0 +1,2 @@
+# CIFAR_10_CNN_POC
+CNN_Relu_Max_Pool_Cross_entropy_AdamOptimizer
